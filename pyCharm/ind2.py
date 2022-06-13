@@ -61,13 +61,11 @@ def main():
     args = file.parse_args()
 
     directory = pathlib.Path(args.path)
-    print(directory)
     if args.dirs:
         generate_tree_dirs(directory)
     else:
         generate_tree(directory)
 
-    print(args.save)
     if args.save:
         save_output(args.save)
     else:
