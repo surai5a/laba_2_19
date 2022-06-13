@@ -1,0 +1,144 @@
+----laba_2_19\
+    |----.git\
+    |    |----hooks\
+    |    |----info\
+    |    |----logs\
+    |    |    |----refs\
+    |    |    |    |----heads\
+    |    |    |    |----remotes\
+    |    |    |    |    |----origin\
+    |    |----objects\
+    |    |    |----37\
+    |    |    |----c5\
+    |    |    |----d9\
+    |    |    |----df\
+    |    |    |----e6\
+    |    |    |----e8\
+    |    |    |----info\
+    |    |    |----pack\
+    |    |----refs\
+    |    |    |----heads\
+    |    |    |----remotes\
+    |    |    |    |----origin\
+    |    |    |----tags\
+    |----doc\
+    |----pyCharm\
+    |    |----.idea\
+    |    |    |----inspectionProfiles\
+    |    |----venv\
+    |    |    |----Lib\
+    |    |    |    |----site-packages\
+    |    |    |    |    |----attr\
+    |    |    |    |    |    |----__pycache__\
+    |    |    |    |    |----attrs\
+    |    |    |    |    |    |----__pycache__\
+    |    |    |    |    |----attrs-21.4.0.dist-info\
+    |    |    |    |    |----jsonschema\
+    |    |    |    |    |    |----benchmarks\
+    |    |    |    |    |    |    |----__pycache__\
+    |    |    |    |    |    |----schemas\
+    |    |    |    |    |    |----tests\
+    |    |    |    |    |    |    |----__pycache__\
+    |    |    |    |    |    |----__pycache__\
+    |    |    |    |    |----jsonschema-4.5.1.dist-info\
+    |    |    |    |    |----pip\
+    |    |    |    |    |    |----_internal\
+    |    |    |    |    |    |    |----cli\
+    |    |    |    |    |    |    |----commands\
+    |    |    |    |    |    |    |----distributions\
+    |    |    |    |    |    |    |----index\
+    |    |    |    |    |    |    |----locations\
+    |    |    |    |    |    |    |----metadata\
+    |    |    |    |    |    |    |----models\
+    |    |    |    |    |    |    |----network\
+    |    |    |    |    |    |    |----operations\
+    |    |    |    |    |    |    |    |----build\
+    |    |    |    |    |    |    |    |----install\
+    |    |    |    |    |    |    |----req\
+    |    |    |    |    |    |    |----resolution\
+    |    |    |    |    |    |    |    |----legacy\
+    |    |    |    |    |    |    |    |----resolvelib\
+    |    |    |    |    |    |    |----utils\
+    |    |    |    |    |    |    |----vcs\
+    |    |    |    |    |    |----_vendor\
+    |    |    |    |    |    |    |----cachecontrol\
+    |    |    |    |    |    |    |    |----caches\
+    |    |    |    |    |    |    |----certifi\
+    |    |    |    |    |    |    |----chardet\
+    |    |    |    |    |    |    |    |----cli\
+    |    |    |    |    |    |    |    |----metadata\
+    |    |    |    |    |    |    |----colorama\
+    |    |    |    |    |    |    |----distlib\
+    |    |    |    |    |    |    |    |----_backport\
+    |    |    |    |    |    |    |----html5lib\
+    |    |    |    |    |    |    |    |----filters\
+    |    |    |    |    |    |    |    |----treeadapters\
+    |    |    |    |    |    |    |    |----treebuilders\
+    |    |    |    |    |    |    |    |----treewalkers\
+    |    |    |    |    |    |    |    |----_trie\
+    |    |    |    |    |    |    |----idna\
+    |    |    |    |    |    |    |----msgpack\
+    |    |    |    |    |    |    |----packaging\
+    |    |    |    |    |    |    |----pep517\
+    |    |    |    |    |    |    |    |----in_process\
+    |    |    |    |    |    |    |----pkg_resources\
+    |    |    |    |    |    |    |----platformdirs\
+    |    |    |    |    |    |    |----progress\
+    |    |    |    |    |    |    |----pygments\
+    |    |    |    |    |    |    |    |----filters\
+    |    |    |    |    |    |    |    |----formatters\
+    |    |    |    |    |    |    |    |----lexers\
+    |    |    |    |    |    |    |    |----styles\
+    |    |    |    |    |    |    |----pyparsing\
+    |    |    |    |    |    |    |    |----diagram\
+    |    |    |    |    |    |    |----requests\
+    |    |    |    |    |    |    |----resolvelib\
+    |    |    |    |    |    |    |    |----compat\
+    |    |    |    |    |    |    |----rich\
+    |    |    |    |    |    |    |----tenacity\
+    |    |    |    |    |    |    |----tomli\
+    |    |    |    |    |    |    |----urllib3\
+    |    |    |    |    |    |    |    |----contrib\
+    |    |    |    |    |    |    |    |    |----_securetransport\
+    |    |    |    |    |    |    |    |----packages\
+    |    |    |    |    |    |    |    |    |----backports\
+    |    |    |    |    |    |    |    |----util\
+    |    |    |    |    |    |    |----webencodings\
+    |    |    |    |    |----pip-22.0.4.dist-info\
+    |    |    |    |    |----pkg_resources\
+    |    |    |    |    |    |----extern\
+    |    |    |    |    |    |----_vendor\
+    |    |    |    |    |    |    |----importlib_resources\
+    |    |    |    |    |    |    |----jaraco\
+    |    |    |    |    |    |    |    |----text\
+    |    |    |    |    |    |    |----more_itertools\
+    |    |    |    |    |    |    |----packaging\
+    |    |    |    |    |----pyrsistent\
+    |    |    |    |    |    |----__pycache__\
+    |    |    |    |    |----pyrsistent-0.18.1.dist-info\
+    |    |    |    |    |----setuptools\
+    |    |    |    |    |    |----command\
+    |    |    |    |    |    |----config\
+    |    |    |    |    |    |    |----_validate_pyproject\
+    |    |    |    |    |    |----extern\
+    |    |    |    |    |    |----_distutils\
+    |    |    |    |    |    |    |----command\
+    |    |    |    |    |    |----_vendor\
+    |    |    |    |    |    |    |----importlib_metadata\
+    |    |    |    |    |    |    |----importlib_resources\
+    |    |    |    |    |    |    |----jaraco\
+    |    |    |    |    |    |    |    |----text\
+    |    |    |    |    |    |    |----more_itertools\
+    |    |    |    |    |    |    |----nspektr\
+    |    |    |    |    |    |    |----packaging\
+    |    |    |    |    |    |    |----tomli\
+    |    |    |    |    |----setuptools-62.1.0.dist-info\
+    |    |    |    |    |----wheel\
+    |    |    |    |    |    |----cli\
+    |    |    |    |    |    |----vendored\
+    |    |    |    |    |    |    |----packaging\
+    |    |    |    |    |----wheel-0.37.1.dist-info\
+    |    |    |    |    |----_distutils_hack\
+    |    |    |    |    |    |----__pycache__\
+    |    |    |    |    |----__pycache__\
+    |    |    |----Scripts\
